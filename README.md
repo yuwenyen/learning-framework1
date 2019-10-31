@@ -1,4 +1,4 @@
-# learnning-framework1: Webアプリケーションフレームワークの練習
+# learnning-framework1: Webアプリケーションフレームワークの練習（サーバサイド編）
 
 ## 参考資料
 
